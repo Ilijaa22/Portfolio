@@ -71,13 +71,6 @@ nav span{
     display: none;
 }
 .text{
-    /*position: relative;
-    top: 28%;
-    left: 10%;
-    font-size: 40px;
-    color: white;
-    animation-duration: 3s;
-    animation-name: animation-text;*/
     height: 80vh;
     display: flex;
     align-items: center;
@@ -98,14 +91,6 @@ nav span{
 .text span{
     color: rgb(236, 36, 36);
 }
-/*@keyframes animation-text {
-    from{
-        margin-left: 20%;
-    }
-    to{
-        margin-right: 0%;
-    }
-}*/
 @keyframes flick {
     0% {
       background-position: top left;
