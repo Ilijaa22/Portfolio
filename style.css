@@ -115,7 +115,7 @@ nav span{
 }
 .about-image img{
     width: 99%;
-    border: 3px solid red;
+    border: 2px solid red;
 }
 
 .about-text{
@@ -384,6 +384,7 @@ form button{
     }
     #contact .container{
         padding: 15px;
+        border-top:1px solid white;
     }
     #contact .row{
         flex-direction: column;
