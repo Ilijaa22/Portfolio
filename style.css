@@ -280,7 +280,7 @@ form button{
 }
 
 
-@media(max-width:768px){
+@media(max-width:825px){
     nav h3{
         padding: 15px 0px 0px 0px;
     }
@@ -457,13 +457,25 @@ form button{
 }
 
 @media (min-width:825px) and (max-width:1250px){
+    nav h3{
+        padding-left: 35px;
+    }
     .list li{
         padding-right: 30px;
+    }
+    .text{
+        padding-left: 50px;
     }
     .text h1{
         font-size: 80px;
     }
     #about{
         padding: 30px ;
+    }
+    #projects{
+        padding: 20px;
+    }
+    #contact .container{
+        padding: 40px;
     }
 }
