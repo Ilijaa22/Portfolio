@@ -456,3 +456,14 @@ form button{
     }
 }
 
+@media (min-width:825px) and (max-width:1250px){
+    .list li{
+        padding-right: 30px;
+    }
+    .text h1{
+        font-size: 80px;
+    }
+    #about{
+        padding: 30px ;
+    }
+}
