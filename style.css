@@ -259,6 +259,9 @@ nav span{
 .contact-right{
     width: 60%;
 }
+i{
+    overflow: hidden;
+}
 form input, form textarea{
     width: 100%;
     border: 0;
